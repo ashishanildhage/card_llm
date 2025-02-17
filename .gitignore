@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables & secrets
+.env
+*.secret
+config.json
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
+*.swo
+
+# Build and Distribution files
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Testing & Coverage
+.coverage
+htmlcov/
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Ignore Docker-related files (if applicable)
+docker-compose.override.yml
+
+# Ignore compiled Cython or C extensions
+*.c
+*.o
+*.so
+
+# Ignore specific repo-related files (customize if needed)
+logs/
+results/
+data/
