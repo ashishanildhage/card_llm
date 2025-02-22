@@ -47,7 +47,7 @@ def process_query(user_input):
         query = COMMANDS[user_input]
     else:
         query = user_input
-    
+
     chain = LLMChain(llm=llm, prompt=prompt_template, memory=memory)
     response = chain.run(query)
     

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559681280237569864/8107757cb7484b44b2958961cde8f45a/artifacts
+end_time: 1739799410867
+entry_point_name: ''
+experiment_id: '559681280237569864'
+lifecycle_stage: active
+run_id: 8107757cb7484b44b2958961cde8f45a
+run_name: serious-sheep-59
+run_uuid: 8107757cb7484b44b2958961cde8f45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739799410659
+status: 3
+tags: []
+user_id: Ashish

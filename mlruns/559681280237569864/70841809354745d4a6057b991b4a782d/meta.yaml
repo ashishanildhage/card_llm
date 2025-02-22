@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559681280237569864/70841809354745d4a6057b991b4a782d/artifacts
+end_time: 1739799430647
+entry_point_name: ''
+experiment_id: '559681280237569864'
+lifecycle_stage: active
+run_id: 70841809354745d4a6057b991b4a782d
+run_name: overjoyed-auk-585
+run_uuid: 70841809354745d4a6057b991b4a782d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739799430410
+status: 3
+tags: []
+user_id: Ashish

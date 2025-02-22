@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559681280237569864/d280abf4149f44e3a0825b510218e15a/artifacts
+end_time: 1739799392807
+entry_point_name: ''
+experiment_id: '559681280237569864'
+lifecycle_stage: active
+run_id: d280abf4149f44e3a0825b510218e15a
+run_name: honorable-donkey-58
+run_uuid: d280abf4149f44e3a0825b510218e15a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739799390465
+status: 3
+tags: []
+user_id: Ashish

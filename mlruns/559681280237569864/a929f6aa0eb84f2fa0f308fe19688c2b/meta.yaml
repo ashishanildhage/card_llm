@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559681280237569864/a929f6aa0eb84f2fa0f308fe19688c2b/artifacts
+end_time: 1739799900092
+entry_point_name: ''
+experiment_id: '559681280237569864'
+lifecycle_stage: active
+run_id: a929f6aa0eb84f2fa0f308fe19688c2b
+run_name: calm-shrew-786
+run_uuid: a929f6aa0eb84f2fa0f308fe19688c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739799897800
+status: 3
+tags: []
+user_id: Ashish
